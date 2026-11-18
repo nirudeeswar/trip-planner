@@ -30,5 +30,3 @@ Open `index.html` in any browser. That's it.
 Each person's edits are stored only in their own browser. There are no accounts and no
 shared live editing. Use the backup text to move a plan between devices.
 
-## License
-MIT. See `LICENSE`. Replace "Your Name" in the license with your own name.
